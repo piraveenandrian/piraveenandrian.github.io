@@ -68,6 +68,6 @@ Data visualization and forecasting dashboard for OTT platforms.
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/piraveen-andrian-4105a1227/
-- Email: piraveenandrian@gmail.com
+- LinkedIn: [linkedin.com/in/piraveen-andrian-4105a1227](https://linkedin.com/in/piraveen-andrian-4105a1227)
+- Email: [piraveenandrian@gmail.com]
 
