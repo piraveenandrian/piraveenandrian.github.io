@@ -32,25 +32,28 @@ Data visualization and forecasting dashboard for OTT platforms.
 
 ## Technical Skills
 
-### Programming
-- Python (Pandas, Scikit-learn, NumPy)
-- R (tidyverse, caret, ggplot2, Shiny)
+### Python Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Machine Learning
-- Regression & Classification
-- Clustering (k-means, hierarchical, HDBSCAN)
-- Topic Modeling (LDA)
-- Neural Networks
-- Time Series Forecasting
+### R & Visualization
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-999999?style=for-the-badge&logo=tidyverse&logoColor=white)
+![Tibble](https://img.shields.io/badge/Tibble-6C757D?style=for-the-badge)
+![ggplot2](https://img.shields.io/badge/ggplot2-2C3E50?style=for-the-badge)
+![Shiny](https://img.shields.io/badge/Shiny-009BDF?style=for-the-badge)
 
-### Data Handling
-- Data Cleaning & Wrangling
-- Feature Engineering
-- Model Evaluation (RMSE, Accuracy, F1-score)
-- Cross-validation & Resampling
-
-### Databases
-- SQL
+### Databases & Big Data
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
 
 ---
 
